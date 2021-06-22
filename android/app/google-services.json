@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "868283860917",
+    "project_id": "flutter-317512",
+    "storage_bucket": "flutter-317512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868283860917:android:b14dac25140919773dfbfc",
+        "android_client_info": {
+          "package_name": "com.ridhaaf.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868283860917-7tc5higvj1c4l6nhidf0pslvdhmk4upq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridhaaf.firebase_authentication",
+            "certificate_hash": "d75813602859e3f329232ff9be3dd5e41b75c68e"
+          }
+        },
+        {
+          "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6qkvp_5u8D4DeEK_SGFs4hYC50tJ_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868283860917:android:5e8833e3656ee7b33dfbfc",
+        "android_client_info": {
+          "package_name": "com.ridhaaf.firebase_google_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868283860917-q5s544s3ua7hn934k83o7q4253to2mk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridhaaf.firebase_google_sign_in",
+            "certificate_hash": "d75813602859e3f329232ff9be3dd5e41b75c68e"
+          }
+        },
+        {
+          "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6qkvp_5u8D4DeEK_SGFs4hYC50tJ_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868283860917:android:2280f278439fb6283dfbfc",
+        "android_client_info": {
+          "package_name": "com.ridhaaf.firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6qkvp_5u8D4DeEK_SGFs4hYC50tJ_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868283860917-6s5b2teqevj6c1cea4u6bk1iq7p95hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
